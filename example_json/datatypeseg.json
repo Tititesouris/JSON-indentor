@@ -1,0 +1,9 @@
+   {
+    "string"    : "This is a string"     ,
+    "integer": 2,
+  "decimal":  5.5  ,
+        "boolean":     false,
+  "array": [   false   , 6.3    ],
+          "null" : null,
+    "object": {             }
+}
