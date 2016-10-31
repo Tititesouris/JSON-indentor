@@ -5,5 +5,5 @@
         "boolean":     false,
   "array": [   false   , 6.3    ],
           "null" : null,
-    "object": {             }
-}
+    "object": {             },
+     "edgecases": ["\"\\\n\t", "\u1234"]}
